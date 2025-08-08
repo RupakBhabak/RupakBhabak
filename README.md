@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RupakBhabak
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA with C++
+- 🌱 I’m currently learning DSA with Python 
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... --->
 - 😄 Pronouns: Mr Dark
